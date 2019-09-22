@@ -1,0 +1,56 @@
+{
+    "target": [
+        {
+            "branch": "azweuam34",
+            "folder": "automotive"
+        },
+        {
+            "branch": "azweuam34",
+            "folder": "sonic"
+        },
+        {
+            "branch": "azuse2am34",
+            "folder": "automotive"
+        },
+        {
+            "branch": "azuse2am34",
+            "folder": "sonic"
+        },
+        {
+            "branch": "azkrsam34",
+            "folder": "automotive"
+        },
+        {
+            "branch": "azcne2am34",
+            "folder": "automotive"
+        },
+        {
+            "branch": "azcne2am34",
+            "folder": "sonic"
+        },
+        {
+            "branch": "azcne2am34",
+            "folder": "X90"
+        },
+        {
+            "branch": "azcne2am34-cvt",
+            "folder": "automotive"
+        },
+        {
+            "branch": "azcne2am34-cvt",
+            "folder": "sonic"
+        },
+        {
+            "branch": "azcne2am34-cvt",
+            "folder": "X90"
+        },
+        {
+            "branch": "azuse2am34-cvt",
+            "folder": "automotive"
+        },
+        {
+            "branch": "azuse2am34-cvt",
+            "folder": "sonic"
+        }
+    ]
+}
