@@ -17,8 +17,8 @@ def send_email(file,
                to_email,
                subject=DEFAULT_SUBJECT,
                message=DEFAULT_MESSAGE):
-    from_email = "QA Dashboard <noreply@nuance.com>"
-    domain = "smtp.nuance.com"
+    from_email = ""
+    domain = ""
 
     with SMTP(domain) as smtp:
         msg = MIMEMultipart()
