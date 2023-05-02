@@ -7,7 +7,7 @@ authors = ["Qingchuan Ma <qingchuan.ma@nuance.com>"]
 [tool.poetry.dependencies]
 python = "^3.7"
 openpyxl = "^2.6"
-flask = "^1.0"
+flask = "^2.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.0"
